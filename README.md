@@ -6,6 +6,7 @@ Especialista en el despliegue de ecosistemas digitales de alto rendimiento y est
 - **LinkedIn:** [linkedin.com/in/tevezmarketing](https://www.linkedin.com/in/tevezmarketing)
 
 ### 📩 Canales de Negocio
+- **Ubicación:** Ibagué, Tolima, Colombia🇨🇴,
 - **WhatsApp Business:** [+57 317 018 3313](https://wa.me/573170183313)
 - **Email Corporativo:** [carlos@tevezmarketing.digital](mailto:carlos@tevezmarketing.digital)
 
