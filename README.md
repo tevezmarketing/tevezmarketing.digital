@@ -30,4 +30,4 @@ Especialista en el despliegue de ecosistemas digitales de alto rendimiento y est
 - [pilar 4: ingeniería de ia y automatización](./servicios/ia.md)
 
 ---
-> *Utilizando el módulo inteligente **Tevia** para potenciar la creatividad y la agilidad en cada proyecto.* 🇨🇴
+> *Utilizando el módulo inteligente, **Tevia** para potenciar la creatividad y la agilidad en cada proyecto.* 🇨🇴
