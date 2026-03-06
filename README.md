@@ -26,7 +26,7 @@ Especialista en el despliegue de ecosistemas digitales de alto rendimiento y est
 - [Pilar 1: Estrategia Full Stack](./servicios/estrategia.md)
 - [Pilar 2: Implementacion y Automatizacion](./servicios/implementacion.md)
 - [Pilar 3: Closer de Ventas Estrategico](./servicios/closer.md)
-- [pilar 4: ingeniería de IA y automatización](./servicios/ia.md)
+- [pilar 4: ingeniería de ia y automatización](./servicios/ia.md)
 
 ---
 > *Utilizando el módulo inteligente **Tevia** para potenciar la creatividad y la agilidad en cada proyecto.* 🇨🇴
