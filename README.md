@@ -20,11 +20,11 @@ Especialista en el despliegue de ecosistemas digitales de alto rendimiento y est
 
 No solo diseño estrategias — las **construyo, automatizo y despliego** con tecnología propia:
 
-- 🤖 **CRM propio automatizado** — desarrollado internamente, sin depender de terceros
-- 📡 **CAPI activado** para Meta y Google — datos de conversión directos al servidor, sin pérdidas
-- 🌐 **Workers adaptativos** — páginas que cambian su contenido según el origen del visitante
-- 🧠 **Agentes de IA** — orquestación inteligente para escala masiva
-- 📊 **Agente contable autónomo** — automatización financiera integrada al ecosistema
+- 🤖 **Tevia Assist** — agente conversacional que atiende, califica y cierra leads 24/7
+- 📡 **Tevia Reach** — workers adaptativos que personalizan páginas según el origen del visitante
+- 📊 **Tevia Finance** — automatización financiera autónoma integrada al ecosistema
+- 🗃️ **Tevia CRM** — gestión inteligente de clientes sin dependencia de plataformas externas
+- 🔗 **CAPI activado** para Meta y Google — conversiones directas al servidor, sin pérdidas
 
 ---
 
@@ -32,7 +32,7 @@ No solo diseño estrategias — las **construyo, automatizo y despliego** con te
 
 1. **Arquitectura de Estrategia Full Stack:** Diseño de embudos y ecosistemas de marketing 360°.
 2. **Implementación y Automatización:** Despliegue técnico en GitHub, Cloudflare y optimización de infraestructura.
-3. **Closer de Ventas Estratégico:** Maximización del retorno de inversión (ROI) mediante técnicas de cierre profesional.
+3. **Ingeniería de Conversión:** Maximización del ROI mediante CRO, atribución y protocolos de cierre profesional.
 4. **Ingeniería de IA y Automatización:** Orquestación de agentes inteligentes y procesos autónomos para escala masiva.
 
 ---
@@ -47,7 +47,18 @@ No solo diseño estrategias — las **construyo, automatizo y despliego** con te
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![CAPI](https://img.shields.io/badge/Conversions_API-0866FF?style=flat&logo=meta&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-00ffff?style=flat&logo=probot&logoColor=black)
-![CRM](https://img.shields.io/badge/CRM_Propio-B19CD9?style=flat&logo=databricks&logoColor=white)
+![CRM](https://img.shields.io/badge/Tevia_CRM-B19CD9?style=flat&logo=databricks&logoColor=white)
+
+---
+
+### 📁 Explora el Ecosistema Tevia
+
+- [Pilar 1: Arquitectura de Estrategia Full Stack](./servicios/estrategia.md)
+- [Pilar 2: Implementación y Automatización](./servicios/implementacion.md)
+- [Pilar 3: Ingeniería de Conversión](./servicios/closer.md)
+- [Pilar 4: Ingeniería de IA y Automatización](./servicios/ia.md)
+- [🔧 Proyectos en Marcha](./proyectos/en-marcha.md)
+- [🏆 Casos de Éxito](./casos-de-exito.md)
 
 ---
 
