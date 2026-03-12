@@ -1,4 +1,4 @@
-# 🧠 pilar 4: ingeniería de ia y automatización
+# 🧠 pilar 4: ingieniería de ia y automatización
 ## orquestación de agentes inteligentes y optimización de procesos
 
 este pilar representa la capa superior del ecosistema. utilizamos inteligencia artificial no como una herramienta aislada, sino como un motor de eficiencia y escala para el negocio.
