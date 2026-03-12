@@ -99,8 +99,16 @@ Todos los casos comparten el mismo principio: **la infraestructura correcta mult
 
 ---
 
-## 🚀 ¿Quieres Ser el Próximo Caso de Éxito?
+## 💬 ¿Hablamos?
+
+Si llegaste hasta aquí, probablemente reconoces alguno de estos escenarios en tu negocio.
+
+No hace falta tomar una decisión hoy. Lo que sí vale la pena es tener una conversación honesta sobre dónde está tu negocio digitalmente y qué tan lejos puede llegar con la infraestructura correcta.
+
+Sin compromisos. Sin presentaciones genéricas. Solo una charla entre profesionales.
 
 - **WhatsApp Business:** [+57 317 018 3313](https://wa.me/573170183313)
 - **Email:** [carlos@tevezmarketing.digital](mailto:carlos@tevezmarketing.digital)
 - **Web:** [tevezmarketing.digital](https://tevezmarketing.digital)
+
+> *Los mejores proyectos empezaron con una conversación simple.*
