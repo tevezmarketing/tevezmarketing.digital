@@ -52,14 +52,12 @@ No solo diseño estrategias — las **construyo, automatizo y despliego** con te
 ---
 
 ### 📁 Explora el Ecosistema Tevia
-
-- [Pilar 1: Arquitectura de Estrategia Full Stack](./servicios/estrategia.md)
-- [Pilar 2: Implementación y Automatización](./servicios/implementacion.md)
-- [Pilar 3: Ingeniería de Conversión](./servicios/closer.md)
-- [Pilar 4: Ingeniería de IA y Automatización](./servicios/ia.md)
-- [🔧 Proyectos en Marcha](./proyectos/en-marcha.md)
+- [Pilar 1: Arquitectura de Estrategia Full Stack](./estrategia.md)
+- [Pilar 2: Implementación y Automatización](./implementacion.md)
+- [Pilar 3: Ingeniería de Conversión](./closer.md)
+- [Pilar 4: Ingeniería de IA y Automatización](./ia.md)
+- [🔧 Proyectos en Marcha](./en-marcha.md)
 - [🏆 Casos de Éxito](./casos-de-exito.md)
-
 ---
 
 ### 🌐 Infraestructura Digital
