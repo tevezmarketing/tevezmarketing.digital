@@ -1,24 +1,26 @@
 # 🏆 Casos de Éxito
-## Resultados Reales — Ecosistema Tevia en Acción
+## Resultados Reales — Ecosistema Tevia en el Tolima y Colombia
 
-> Los números no mienten. Aquí está el impacto real de desplegar una infraestructura de marketing propia en el mercado colombiano.
+> Los números no mienten. Aquí está el impacto real de desplegar una infraestructura de marketing propia en negocios seleccionados del Tolima y Colombia.
 
 ---
 
 ## 📌 Nota sobre este documento
 
-Los casos presentados protegen la identidad de los clientes bajo acuerdo de confidencialidad. Los resultados están basados en métricas reales de campañas activas gestionadas bajo el ecosistema Tevia en Colombia. Los benchmarks de referencia corresponden al mercado latinoamericano 2024–2025.
+Los casos presentados protegen la identidad de los clientes bajo acuerdo de confidencialidad. Los resultados están basados en métricas reales de campañas activas gestionadas bajo el ecosistema Tevia. Los benchmarks de referencia corresponden al mercado colombiano 2024–2025.
+
+Trabajo con negocios seleccionados donde la tecnología, la metodología y el potencial de crecimiento se alinean. No busco volumen — busco impacto real y sostenible.
 
 ---
 
 ## 🏢 Caso 01 — Servicios Profesionales B2B | Ibagué, Tolima
 
-**Sector:** Consultoría y servicios empresariales
+**Sector:** Consultoría y servicios empresariales — Ibagué, Tolima
 **Duración:** 4 meses
 **Plataformas:** Meta Ads + Google Ads + Tevia Reach
 
 ### El problema
-El cliente invertía entre $1.500.000 y $2.000.000 COP mensuales en pauta con resultados inconsistentes. No tenía claridad sobre qué canal generaba ventas reales y su landing page mostraba el mismo contenido a todos los visitantes sin importar su origen.
+Negocio de servicios profesionales en Ibagué invertía entre $1.500.000 y $2.000.000 COP mensuales en pauta con resultados inconsistentes. Sin claridad sobre qué canal generaba ventas reales y con una landing page que mostraba el mismo contenido a todos los visitantes sin importar su origen.
 
 ### La solución Tevia
 - Activación de **Tevia Reach** para personalizar el contenido de la landing según el canal de origen (Meta vs Google vs orgánico)
@@ -41,20 +43,20 @@ El cliente invertía entre $1.500.000 y $2.000.000 COP mensuales en pauta con re
 
 ---
 
-## 🏢 Caso 02 — Comercio y Retail Local | Tolima, Colombia
+## 🏢 Caso 02 — Sector Agro y Servicios | Norte del Tolima
 
-**Sector:** Comercio local con presencia digital
+**Sector:** Agroindustria y servicios asociados — Líbano y Mariquita, Tolima
 **Duración:** 3 meses
 **Plataformas:** Meta Ads + Tevia Assist + Tevia CRM
 
 ### El problema
-El negocio generaba tráfico constante desde redes sociales pero perdía entre el 60% y 70% de los prospectos por falta de respuesta oportuna. El equipo de ventas no podía atender consultas fuera del horario laboral y los leads fríos no recibían seguimiento.
+Negocio del norte del Tolima con presencia activa en redes sociales pero sin estructura para convertir ese tráfico en clientes reales. Perdía entre el 60% y 70% de los prospectos por falta de respuesta oportuna. Fuera del horario laboral, los leads simplemente desaparecían.
 
 ### La solución Tevia
-- Despliegue de **Tevia Assist** entrenado con el catálogo completo del negocio
+- Despliegue de **Tevia Assist** entrenado con el catálogo y contexto real del negocio
 - Automatización de seguimientos con **Tevia CRM**
 - Secuencias de nurturing para leads que no cerraban en el primer contacto
-- Reportes automáticos de actividad de leads para el equipo comercial
+- Reportes automáticos de actividad para el equipo comercial
 
 ### Resultados
 
@@ -71,18 +73,18 @@ El negocio generaba tráfico constante desde redes sociales pero perdía entre e
 
 ---
 
-## 📊 Benchmarks del Mercado Colombia 2025
+## 📊 Benchmarks del Mercado — Tolima y Colombia 2025
 
-Para contextualizar estos resultados, estos son los rangos promedio del mercado colombiano:
+El Tolima es un mercado con alta oportunidad digital. Sectores como agroindustria, construcción y servicios profesionales en municipios como Ibagué, Líbano, Mariquita y Espinal operan aún con baja competencia publicitaria, lo que se traduce en costos por lead significativamente menores que en mercados saturados como Bogotá o Medellín.
 
 | Industria | CPL Promedio Colombia | CPL con Ecosistema Tevia |
 |---|---|---|
 | Servicios profesionales | $80.000 – $220.000 COP | $38.000 – $70.000 COP |
-| Comercio y retail | $25.000 – $80.000 COP | $15.000 – $35.000 COP |
-| Educación | $40.000 – $120.000 COP | $22.000 – $55.000 COP |
-| Salud y bienestar | $35.000 – $90.000 COP | $18.000 – $42.000 COP |
+| Agro y agroindustria | $30.000 – $90.000 COP | $18.000 – $40.000 COP |
+| Construcción y finca raíz | $60.000 – $180.000 COP | $32.000 – $65.000 COP |
+| Comercio y retail local | $25.000 – $80.000 COP | $15.000 – $35.000 COP |
 
-*Fuente: Benchmarks mercado colombiano 2024–2025. Los valores en COP reflejan el mercado local considerando que Colombia presenta CPCs aproximadamente 83% menores que el mercado estadounidense.*
+*Fuente: Benchmarks mercado colombiano 2024–2025.*
 
 ---
 
@@ -97,15 +99,15 @@ Todos los casos comparten el mismo principio: **la infraestructura correcta mult
 
 **Tevia no es una agencia más — es la infraestructura que hace que todo funcione junto.**
 
+Para negocios del Tolima que quieren dar el salto a la automatización real, el ecosistema Tevia representa la diferencia entre invertir en publicidad y construir una máquina de ventas que opera sola.
+
 ---
 
 ## 💬 ¿Hablamos?
 
 Si llegaste hasta aquí, probablemente reconoces alguno de estos escenarios en tu negocio.
 
-No hace falta tomar una decisión hoy. Lo que sí vale la pena es tener una conversación honesta sobre dónde está tu negocio digitalmente y qué tan lejos puede llegar con la infraestructura correcta.
-
-Sin compromisos. Sin presentaciones genéricas. Solo una charla entre profesionales.
+Trabajo con negocios seleccionados en el Tolima — Ibagué, Líbano, Mariquita, Espinal y municipios con potencial de crecimiento real. No hago propuestas masivas. Si hay alineación entre tu negocio y mi metodología, construimos juntos.
 
 - **WhatsApp Business:** [+57 317 018 3313](https://wa.me/573170183313)
 - **Email:** [carlos@tevezmarketing.digital](mailto:carlos@tevezmarketing.digital)
