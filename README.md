@@ -21,9 +21,9 @@ Especialista en el despliegue de ecosistemas digitales de alto rendimiento y est
 No solo diseño estrategias — las **construyo, automatizo y despliego** con tecnología propia:
 
 - 🤖 **Tevia Assist** — agente conversacional que atiende, califica y cierra leads 24/7
-- 📡 **Tevia Reach** — workers adaptativos que personalizan páginas según el origen del visitante
+- 📡 **Tevia Reach** — agente adaptativo que personalizan páginas según el origen del visitante
 - 📊 **Tevia Finance** — automatización financiera autónoma integrada al ecosistema
-- 🗃️ **Tevia CRM** — gestión inteligente de clientes sin dependencia de plataformas externas
+- 🗃️ **Tevia CRM** — gestión inteligente de clientes sin dependencia de plataformas externas dentro del ecosistema tevezmarketing
 - 🔗 **CAPI activado** para Meta y Google — conversiones directas al servidor, sin pérdidas
 
 ---
@@ -31,7 +31,7 @@ No solo diseño estrategias — las **construyo, automatizo y despliego** con te
 ### 🛠️ Mis 4 Pilares de Servicio
 
 1. **Arquitectura de Estrategia Full Stack:** Diseño de embudos y ecosistemas de marketing 360°.
-2. **Implementación y Automatización:** Despliegue técnico en GitHub, Cloudflare y optimización de infraestructura.
+2. **Implementación y Automatización:** Despliegue técnico y optimización de infraestructura.
 3. **Ingeniería de Conversión:** Maximización del ROI mediante CRO, atribución y protocolos de cierre profesional.
 4. **Ingeniería de IA y Automatización:** Orquestación de agentes inteligentes y procesos autónomos para escala masiva.
 
@@ -39,9 +39,7 @@ No solo diseño estrategias — las **construyo, automatizo y despliego** con te
 
 ### 🧰 Stack Tecnológico
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0866FF?style=flat&logo=meta&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat&logo=googleads&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
